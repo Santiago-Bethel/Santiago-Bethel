@@ -16,7 +16,7 @@
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](./).
-- :boom: You can visit [MY PORTFOLIO]([https://santiago-bethel.github.io/).
+- :boom: You can visit [MY PORTFOLIO](https://santiago-bethel.github.io/).
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
