@@ -15,7 +15,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](./).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/santiago-andres-bethel-ariza-1b1564401/overlay/1775635985247/single-media-viewer/?profileId=ACoAAGbGjhUBvJj-PiWx5rqlJGI51g7cmD82rgY).
 - :boom: You can visit [MY PORTFOLIO](https://santiago-bethel.github.io/).
 <br>
 
